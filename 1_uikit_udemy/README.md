@@ -2,6 +2,8 @@
 
 ![screenshot](https://user-images.githubusercontent.com/6462456/234519102-04fc690c-e4e4-47e8-ab36-1d0b7d296ce5.png)
 
+[Course Link](https://www.udemy.com/course/the-swift-arcade-professional-ios-development-course-uikit/)
+
 <br />
 
 ## 커리큘럼에 포함한 이유
