@@ -1,4 +1,4 @@
-# swift-study
+# ios-study
 
 > 애플 개발 생태계에 익숙해지기 위한 몸부림 🍎
 
@@ -6,15 +6,12 @@
 
 <br />
 
-## 스터디 진행 방식
+## `/studies`
 
-1. 스터디하기 좋은 강의/교재들 아카이빙
-2. 시간 및 중요도 고려 우선순위 결정
-3. Markdown으로 기록하면서 공부
+공부 자료를 보고 복습한 내용을 정리하는 공간입니다.
 
 <br />
 
-## 스터디 진행 기록
+## `/posts`
 
-1. [The Swift Arcade Professional iOS Development Course - UIKit (Udemy course)](https://www.udemy.com/course/the-swift-arcade-professional-ios-development-course-uikit/)
-2. ...
+IOS 개발에 관한 특정 주제의 단위 포스팅을 남기는 공간입니다.
