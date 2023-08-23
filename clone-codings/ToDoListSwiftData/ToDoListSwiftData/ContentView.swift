@@ -1,8 +1,8 @@
 //
 //  ContentView.swift
-//  SwiftUIPlayground
+//  ToDoListSwiftData
 //
-//  Created by Eojin Choi on 2023/07/20.
+//  Created by Eojin Choi on 2023/08/21.
 //
 
 import SwiftUI
