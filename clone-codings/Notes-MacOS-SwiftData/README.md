@@ -122,8 +122,7 @@ note.isFavorite.toggle()
 
 <img width="1045" alt="image" src="https://github.com/poodlepoodle/ios-study/assets/6462456/b2521409-c97a-49d1-879b-86ef818f5bf6" />
 
-<img width="1045" alt="image" src="https://github.com/poodlepoodle/ios-study/assets/6462456/3ec27f85-cda5-4082-ae3b-
-fb53ef44b019" />
+<img width="1045" alt="image" src="https://github.com/poodlepoodle/ios-study/assets/6462456/3ec27f85-cda5-4082-ae3b-fb53ef44b019" />
 
 ```swift
         NavigationSplitView { ... }
