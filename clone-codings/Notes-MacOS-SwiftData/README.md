@@ -27,11 +27,10 @@ var body: some View {
                 // ...
             }
         }
-        .preferredColorScheme(isDark ? .dark : .light)
     }
 ```
 
-- `NavigationSplitView`를 이용해 좌측의 카테고리를 구성했고, 위쪽의 `.toolbar`로 메모 추가와 라이트-다크 모드 전환을 할 수 있도록 구성했습니다.
+- `NavigationSplitView`를 이용해 좌측의 카테고리를 구성했고, 위쪽의 `.toolbar`로 메모 추가와 라이트 - 다크 모드 전환을 할 수 있는 레이아웃을 구성했습니다.
 
 ### 2. SwiftData CRUD
 
